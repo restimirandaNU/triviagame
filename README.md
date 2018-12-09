@@ -8,6 +8,7 @@ Motivation
 I wanted to create a Star Wars trivia game that showcase the most recent Star Wars movies. For the non Star Wars believers, the answer is very easy to guess.
 
 Screen shot: 
+![triviagameimage](https://user-images.githubusercontent.com/43328718/49694227-1c8eb180-fb4c-11e8-9ca2-c4164f8a3d2c.PNG)
 
 Technologies used
 Bootstrap
